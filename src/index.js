@@ -5,7 +5,7 @@ import VideoList from './components/video_list';
 import VideoDetails from './components/video_details';
 import YTSearch from 'youtube-api-search';
 import _ from 'lodash';
-const API_KEY = 'AIzaSyD9r8xNj-FRs6jJ2KTdqk_f_TOxOe17UIM';
+const API_KEY = '<ENTER YOUR GOOGLE API KEY FOR YOUTUBE V4>';
 
 class App extends Component {
   constructor(props) {
